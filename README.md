@@ -14,7 +14,7 @@ To install the required Python packages, use the provided `install_requirements.
    python install_requirements.py
 Usage
 Step 1: Generate .prom Files
-First, you need to generate .prom files using the Wavelet Prosody Toolkit. Follow the instructions in the Wavelet Prosody Toolkit GitHub repository to generate these files.
+First, you need to generate .prom files using the [Wavelet Prosody Toolkit GitHub repository](https://github.com/asuni/wavelet_prosody_toolkit.git). Follow the instructions in the Wavelet Prosody Toolkit GitHub repository to generate these files.
 
 Step 2: Convert .prom Files to TextGrid
 Once you have the .prom files, you can use the process_files.py script to convert them into TextGrid files.
