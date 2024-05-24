@@ -26,7 +26,7 @@ out_dir: The output directory where the new TextGrid files will be saved.
 Example
 Run the script as follows:
 ```sh
-   python process_files.py <prom_dir> <textgrid_dir> <out_dir>
+   python prom_to_textgrid.py <prom_dir> <textgrid_dir> <out_dir>
 ```
 
 Replace <prom_dir>, <textgrid_dir>, and <out_dir> with the appropriate paths.
