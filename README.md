@@ -35,7 +35,7 @@ Replace <prom_dir>, <textgrid_dir>, and <out_dir> with the appropriate paths.
 ```sh
 project_root/
 ├── install_requirements.py
-├── process_files.py
+├── prom_to_textgrid.py
 ├── requirements.txt
 ├── prom_dir/
 │   ├── example1.prom
